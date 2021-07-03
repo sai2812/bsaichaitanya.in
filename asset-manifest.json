@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bsaichaitanya.in/static/css/main.71dbe856.chunk.css",
-    "main.js": "/bsaichaitanya.in/static/js/main.cd3a8183.chunk.js",
-    "main.js.map": "/bsaichaitanya.in/static/js/main.cd3a8183.chunk.js.map",
+    "main.css": "/bsaichaitanya.in/static/css/main.ee486a3d.chunk.css",
+    "main.js": "/bsaichaitanya.in/static/js/main.e1d28c5c.chunk.js",
+    "main.js.map": "/bsaichaitanya.in/static/js/main.e1d28c5c.chunk.js.map",
     "runtime-main.js": "/bsaichaitanya.in/static/js/runtime-main.efe93abb.js",
     "runtime-main.js.map": "/bsaichaitanya.in/static/js/runtime-main.efe93abb.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/bsaichaitanya.in/static/css/2.4c97ca4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.277f318b.chunk.js.map": "/bsaichaitanya.in/static/js/3.277f318b.chunk.js.map",
     "index.html": "/bsaichaitanya.in/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/bsaichaitanya.in/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.71dbe856.chunk.css.map": "/bsaichaitanya.in/static/css/main.71dbe856.chunk.css.map",
+    "static/css/main.ee486a3d.chunk.css.map": "/bsaichaitanya.in/static/css/main.ee486a3d.chunk.css.map",
     "static/js/2.97966b30.chunk.js.LICENSE.txt": "/bsaichaitanya.in/static/js/2.97966b30.chunk.js.LICENSE.txt",
     "static/media/display.b0727be6.jpg": "/bsaichaitanya.in/static/media/display.b0727be6.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.efe93abb.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.97966b30.chunk.js",
-    "static/css/main.71dbe856.chunk.css",
-    "static/js/main.cd3a8183.chunk.js"
+    "static/css/main.ee486a3d.chunk.css",
+    "static/js/main.e1d28c5c.chunk.js"
   ]
 }
